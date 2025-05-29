@@ -3,17 +3,6 @@
 
 require_once __DIR__ . '/src/LoyalCustomerFinder.php';
 
-/**
- * CLI Entry point for loyal customer detection.
- * 
- * -----------------------------------------------
- * 🔍 Questions for the Product Owner
- * -----------------------------------------------
- * - Should unique pages be counted across both days or per day?
- * - Are malformed rows to be skipped silently?
- * - Should we filter bots or system visits?
- * - Should output format be plain or structured (JSON, CSV)?
- */
 
 
 /**
